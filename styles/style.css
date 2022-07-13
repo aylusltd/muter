@@ -1,0 +1,7 @@
+.muter--hidden{
+    display: none !important;
+}
+
+div.scaffold-finite-scroll__content div.muter--highlighted{
+    background-color:burlywood !important;
+}
